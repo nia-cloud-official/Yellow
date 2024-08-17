@@ -24,7 +24,7 @@
 
 To start streaming with Yellow:
 
-1. **Sign Up**: Visit [Yellow's website](https://yellow.top) and create an account.
+1. **Sign Up**: Visit [Yellow's website](https://theyellow.top) and create an account.
 2. **Choose a Plan**: Select a subscription plan that fits your needs.
 3. **Download the App** (optional): Get the Yellow app for iOS or Android to stream on the go.
 4. **Start Watching**: Browse the library and begin streaming your favorite content.
@@ -56,15 +56,15 @@ Yellow offers various subscription plans to suit your entertainment needs:
 
 ## Support
 
-If you encounter any issues or have questions, please visit our [Help Center](https://yellow.top/help) or contact our support team at support@yellow.top.
+If you encounter any issues or have questions, please visit our [Help Center](https://theyellow.top/help) or contact our support team at support@theyellow.top.
 
 ## Feedback
 
-We value your feedback! Please send your suggestions or report any bugs to feedback@yellow.top
+We value your feedback! Please send your suggestions or report any bugs to feedback@theyellow.top
 
 ## Contributing
 
-We are always looking to improve Yellow. If you're interested in contributing, please check out our [Contribution Guidelines](https://yellow.top/contribute).
+We are always looking to improve Yellow. If you're interested in contributing, please check out our [Contribution Guidelines](https://theyellow.top/contribute).
 
 ## License
 
