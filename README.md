@@ -56,7 +56,7 @@ Yellow offers various subscription plans to suit your entertainment needs:
 
 ## Support
 
-If you encounter any issues or have questions, please visit our [Help Center](https://yellow.top/help) or contact our support team at support@yellow.example.com.
+If you encounter any issues or have questions, please visit our [Help Center](https://yellow.top/help) or contact our support team at support@yellow.top.
 
 ## Feedback
 
